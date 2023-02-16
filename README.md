@@ -1,8 +1,7 @@
 <h2 align="center">Hola :D, soy Roberto C. Dionisio Mota</h2>
-<hr>
 <h4 align="center">Principiante en el mundo del <b>Desarrollo Web</b></h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RCDM-16&label=Profile%20views&color=0e75b6&style=flat" alt="RCDM" /> </p>
 <!-- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rafabmr&label=Profile%20views&color=0e75b6&style=flat" alt="rafabmr" /> </p>
 
 - 🌱 I’m currently learning **Go, Vala, React, Vue**
 
