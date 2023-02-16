@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hi there :D
 <!--
 **RCDM-16/RCDM-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
