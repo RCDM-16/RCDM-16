@@ -1,5 +1,5 @@
 <h1 align="center">Hola :D, soy Roberto C. Dionisio Mota</h1>
-<h3 align="center">Principiante en el mundo del <i>Desarrollo Web</i></h3>
+<p align="center">Principiante en el mundo del <b>Desarrollo Web</b></p>
 
 <h2 align="center">Frameworks/Herramientas y Lenguajes Conocidos:</h2>
 
