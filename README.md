@@ -1,9 +1,9 @@
 <h1 align="center">< Hello World!👋 /></h1>
 <br>
-<h2 align="center">Mi Nombre es <b>Roberto C. Dionisio Mota</b> (<i>Mota</i>) y me estoy iniciando en el mundo del <b>Desarrollo Web</b></h2>
+<h3 align="center">Mi Nombre es <b>Roberto C. Dionisio Mota</b> (<i>Mota</i>) y me estoy iniciando en el mundo del <b>Desarrollo Web</b></h3>
 <br>
 <br>
-<h3 align="center">Frameworks, Herramientas y Lenguajes:</h2>
+<h2 align="center">Frameworks, Herramientas y Lenguajes:</h2>
 
 <!--lenguajes-->
 <p align="center"> 
