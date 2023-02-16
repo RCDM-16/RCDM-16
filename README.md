@@ -1,6 +1,6 @@
 <h1 align="center">< Hello World!👋 /></h1>
 <br>
-<h2 align="center" font-family="Monaco">Mi Nombre es <b>Roberto C. Dionisio Mota</b> (<i>Mota</i>) y me estoy iniciando en el mundo del <b>Desarrollo Web</b></h2>
+<h2 align="center" style="font-family:Monaco;">Mi Nombre es <b>Roberto C. Dionisio Mota</b> (<i>Mota</i>) y me estoy iniciando en el mundo del <b>Desarrollo Web</b></h2>
 <br>
 <br>
 <h2 align="center">Frameworks, Herramientas y Lenguajes:</h2>
