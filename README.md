@@ -3,7 +3,7 @@
 <p align="center">Mi Nombre es <b>Roberto C. Dionisio Mota</b> (<i>Mota</i>) y me estoy iniciando en el mundo del <b>Desarrollo Web</b></p>
 <br>
 <br>
-<p align="center"><b>Frameworks, Herramientas y Lenguajes:</b></p>
+<p align="center" font-size="30px"><b>Frameworks, Herramientas y Lenguajes:</b></p>
 
 <!--lenguajes-->
 <p align="center"> 
