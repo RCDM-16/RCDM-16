@@ -1,5 +1,5 @@
-<h1 align="center">< Hola 👋, soy Roberto C. Dionisio Mota :D /></h1>
-<p align="center">Principiante (Estudiante) en el mundo del <b>Desarrollo Web</b></p>
+<p align="center"><b><</b> !Hello World! <b>/></b></p>
+<p align="center">Hola 👋,Mi Nombre es Roberto C. Dionisio Mota soy Principiante (Estudiante) en el mundo del <b>Desarrollo Web</b></p>
 <br>
 <h2 align="center">Frameworks, Herramientas y Lenguajes:</h2>
 
@@ -11,6 +11,6 @@
 <br>
 <!--Estadisticas-->
 <div align="center">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=RCDM-16&show_icons=true&locale=es&theme=merko" alt="RCDM" height="140" width="350" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCDM-16&show_icons=true&locale=es&layout=compact&theme=merko" alt="RCDM"  height="140" width="350"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=RCDM-16&show_icons=true&locale=es&theme=dark" alt="RCDM" height="140" width="350" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCDM-16&show_icons=true&locale=es&layout=compact&theme=dark" alt="RCDM"  height="140" width="350"/>
 </div>
