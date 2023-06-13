@@ -15,5 +15,5 @@
 <!--Estadisticas-->
 <div align="center">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RCDM-16&show_icons=true&locale=es&theme=dark" alt="RCDM" height="140" width="350" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCDM-16&show_icons=true&locale=es&layout=compact&theme=dark" alt="RCDM"  height="140" width="350"/>
+ <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCDM-16&show_icons=true&locale=es&layout=compact&theme=dark" alt="RCDM"  height="140" width="350"/>-->
 </div>
