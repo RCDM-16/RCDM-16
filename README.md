@@ -1,7 +1,7 @@
 # <div align="center">< Hello World!👋 /> </div>
 
 <br>
-<h4 align="center">Mi Nombre es Roberto C. Dionisio Mota (<i>Mota</i>), Estudiante P.T.B en Informática y me Estoy Iniciando en el Mundo del Desarrollo Web 💻🌐.</h4>
+<h4 align="center">Mi Nombre es Roberto C. Dionisio Mota (<i>Mota</i>), Estudiante de Ing. en Sistemas Computacionales.</h4>
 <br>
 <br>
 <h2 align="center" font-size="30px">Frameworks, Herramientas y Lenguajes:</h2>
